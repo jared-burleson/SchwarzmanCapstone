@@ -17,3 +17,5 @@ Important Notes on Grant Data:
 -	DYS (2003-2005) is missing Physics II
 -	DYS (2002) is missing completely
 -	EYSF data begins in 2015
+
+I have created plots to visualize the data for each of the funds and for each of the categories of research projects in NSFCData_Plots.pdf
